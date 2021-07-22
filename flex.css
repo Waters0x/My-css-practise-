@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+    
+}    
+  
+.subcontainer {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+    
+img {
+    width: 600px;
+    height: 400px;
+    
+
+
+}
+
+
+
+
+h1 {
+    color:black;
+    font-style:inherit;
+    font-size: 20px;
+}
+
+
+
+h2 {
+    color: salmon;
+    font-style:italic;
+    font-size: 40px;
+}
